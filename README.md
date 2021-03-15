@@ -100,7 +100,7 @@ To make it easy to learn OARC hosts a reference 'Spatial Discovery Service' and 
 ### Prerequisites
 
 In order to publish content to the reference Spatial Discovery Service you must first upload your content to OARC's public storage hosted on (Amazon Simple Storage Service).
-* npm
+* S3 Client (used to upload assets to out public Simple Storage Service bucket)
 
 
 
