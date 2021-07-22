@@ -75,9 +75,9 @@ In the picture below, you can see where to change the AR object prefab. You can 
 
 You can capture a lot larger areas using the Immersal Mapper app, available for both iOS and Android.
 
-App Store: https://apps.apple.com/us/app/immersal-mapper/id1466607906
+[App Store](https://apps.apple.com/us/app/immersal-mapper/id1466607906)
 
-Play Store: https://play.google.com/store/apps/details?id=com.immersal.sdk.mapper&hl=en&gl=US
+[Play Store](https://play.google.com/store/apps/details?id=com.immersal.sdk.mapper&hl=en&gl=US)
 
 If you use the same credentials when logging in to the Mapper app, you can use these maps in the demo app also.
 
