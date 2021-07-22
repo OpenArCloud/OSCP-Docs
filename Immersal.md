@@ -1,12 +1,3 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Immersal City-scale Demo App Tutorial
 
 This is a simple Demo App for Unity, using the Immersal SDK, AR Foundation and a real-time database server. The purpose of the app is to demonstrate persistent AR with basic multi-user capabilities. The app is divided into two parts: the Automatic Mapper view, where any real-world environment can be quickly scanned, and the Content Placement view, where simple AR content can be placed in the previously scanned environment. All devices see the same content at the same place. The content can also be moved by dragging, and the new position is updated to all devices in real-time.
