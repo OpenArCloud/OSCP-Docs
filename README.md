@@ -72,7 +72,7 @@ The components of the OSCP are open source, reference implementations, intended 
 Reference Components
 * [GeoPose](https://example.com)
 * [Spatial Discovery Service](https://example.com)
-* [Etc](https://example.com)
+* [WebXR reference client (spARcl)](https://openarcloud.github.io/sparcl/)
 
 ### Commercial Solutions
 
