@@ -70,8 +70,9 @@ The Open Spatial Computing Platform is a growing set of standard components that
 The components of the OSCP are open source, reference implementations, intended to provide examples so that others may integrate OSCP compatiblity into into their own applications.
 
 Reference Components
-* [GeoPose](https://example.com)
-* [Spatial Discovery Service](https://example.com)
+* [GeoPose](https://www.ogc.org/projects/groups/geoposeswg)
+* [Spatial Service Discovery](https://github.com/OpenArCloud/oscp-spatial-service-discovery)
+* [Spatial Content Discovery](https://github.com/OpenArCloud/oscp-spatial-content-discovery)
 * [WebXR reference client (spARcl)](https://openarcloud.github.io/sparcl/)
 
 ### Commercial Solutions
@@ -79,6 +80,7 @@ Reference Components
 A growing number of commercial solutions are compatible with the OSCP. To quickly begin publishing digital content to the real world, please consider using these:	
 * [Augmented City](https://www.augmented.city/)
 * [Immersal](https://immersal.com/)
+* [XRMasters](https://xr-masters.com/)
 
 ### OSCP Sandbox Resources
 Open AR Cloud and the Open Spatial Computing Platoform is not a commercial service, rather it is reference material intended to enable participation in an openly accessible, decentralized, community of spatial content. However we do run some 'sandbox' services for the the purpose of reference and learning.
@@ -111,6 +113,16 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
+## Augmendted City
+* [AC Scanner](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Augmented-City-How-To-Scan.md)
+* [AC Viewer](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Augmented-City-Viewer-SDK.md)
+
+## Immersal
+* [City-scale demo](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Immersal-City-Scale-Demo.md)
+
+## XR Masters App
+* [Placing AR Object using the XR-Masters App](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR_Masters_placement_tutorial.pdf)
+* [Uploading to Augmented City](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR_Masters_uploading_to_AugmentedCity.pdf)
 
 
 <!-- ROADMAP -->
