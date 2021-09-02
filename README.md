@@ -113,11 +113,11 @@ In order to publish content to the reference Spatial Discovery Service you must 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 ## Augmendted City
-* [AC Scanner](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Augmented-City-How-To-Scan.md)
-* [AC Viewer](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Augmented-City-Viewer-SDK.md)
+* [AC Scanner](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AC_Scanner_Tutorial.pdf)
+* [AC Viewer](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AC_Viewer_Tutorial.pdf)
 
 ## Immersal
-* [City-scale demo](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Immersal-City-Scale-Demo.md)
+* [City-scale demo](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Immersal_City_Scale_Demo.pdf)
 
 ## XR Masters App
 * [Placing AR Object using the XR-Masters App](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR_Masters_placement_tutorial.pdf)
