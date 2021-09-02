@@ -7,11 +7,10 @@
 
 
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/OpenArCloud/OSCP-Docs">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <b>Open Spatial Computing Platform<b>
   </a>
 
   <h3 align="center">Getting Started with Open Spatial Computing Platform</h3>
