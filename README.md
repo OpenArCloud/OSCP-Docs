@@ -10,16 +10,16 @@
 <br />
 <p align="center">
   <a href="https://github.com/OpenArCloud/OSCP-Docs">
-    <b>Open Spatial Computing Platform</b>
+    <b style="font-size:24px">Open Spatial Computing Platform</b>
   </a>
 
   <h3 align="center">Getting Started with Open Spatial Computing Platform</h3>
 
   <p align="center">
     Learn how to integrate the Open Spatial Computing Platform with your code today!
-    <br />
+<!--     <br />
     <a href="https://github.com/OpenArCloud/OSCP-Docs"><strong>Explore the docs »</strong></a>
-    <br />
+    <br /> -->
     <br />
 <!--     <a href="https://github.com/OpenArCloud/OSCP-Docs">View Demo</a>
     ·
