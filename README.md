@@ -21,11 +21,11 @@
     <a href="https://github.com/OpenArCloud/OSCP-Docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/OpenArCloud/OSCP-Docs">View Demo</a>
+<!--     <a href="https://github.com/OpenArCloud/OSCP-Docs">View Demo</a>
     ·
     <a href="https://github.com/OpenArCloud/OSCP-Docs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/OpenArCloud/OSCP-Docs/issues">Request Feature</a>
+    <a href="https://github.com/OpenArCloud/OSCP-Docs/issues">Request Feature</a> -->
   </p>
 </p>
 
