@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/OpenArCloud/OSCP-Docs">
-    <b>Open Spatial Computing Platform<b>
+    <b>Open Spatial Computing Platform</b>
   </a>
 
   <h3 align="center">Getting Started with Open Spatial Computing Platform</h3>
@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Open Spatial Computing Platform
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<b>OSCP</b>
 
 The Open Spatial Computing Platform is a growing set of standard components that enables the authoring, publishing, discovery, and consumption of digital content such as XR experiences that has been anchored to the real world.
 
