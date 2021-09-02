@@ -112,7 +112,7 @@ In order to publish content to the reference Spatial Discovery Service you must 
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
-## Augmendted City
+## Augmented City
 * [AC Scanner](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AC_Scanner_Tutorial.pdf)
 * [AC Viewer](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AC_Viewer_Tutorial.pdf)
 
