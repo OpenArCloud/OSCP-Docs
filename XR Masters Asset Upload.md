@@ -75,9 +75,10 @@ Now you can add any kind of Unity object to your root obj prefab as child. You c
 3. Click **Create Asset** button on the top right of the page
 4. Enter account information to login
 5. Give name to your content
-6. Click **Select File** button next to **Unity Package** line and select the .unitypackage file you generated in previous step
-7. Upload preview image file for asset to locate it more easly
-8. Click **Create** button on the bottom of the page to submit your content
+6. Give tags to your asset to search it within database easly
+7. Click **Select File** button next to **Unity Package** line and select the .unitypackage file you generated in previous step
+8. Upload preview image file for asset to locate it more easly
+9. Click **Create** button on the bottom of the page to submit your content
 
 ![](https://public.3.basecamp.com/p/bjEyCJBdvCFWhPUwkTsXgnDU/upload/download/upload-content.gif)
 
