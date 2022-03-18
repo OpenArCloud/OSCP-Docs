@@ -121,6 +121,7 @@ In order to publish content to the reference Spatial Discovery Service you must 
 
 ## XR Masters App
 * [Placing AR Object using the XR-Masters App](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR_Masters_placement_tutorial.pdf)
+* [Uploading to XR Masters](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR%20Masters%20Asset%20Upload.md)
 * [Uploading to Augmented City](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR_Masters_uploading_to_AugmentedCity.pdf)
 
 
