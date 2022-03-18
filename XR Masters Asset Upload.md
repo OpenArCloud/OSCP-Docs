@@ -70,6 +70,8 @@ Now you can add any kind of Unity object to your root obj prefab as child. You c
 
 > You will need to have a XR Masters account for this step. You can create one with [upload.xr-masters.com](https://upload.xr-masters.com) or with our mobile app for [Android](https://play.google.com/store/apps/details?id=com.xrmasters.spatialbrowser&gl=TR) or [iOS](https://apps.apple.com/us/app/xr-masters/id1559938370)
 
+> Keep in mind unitypackage size should be smaller than 100mb otherwise system won't accept it
+
 1. Open a web browser
 2. Go to [upload.xr-masters.com](https://upload.xr-masters.com)
 3. Click **Create Asset** button on the top right of the page
