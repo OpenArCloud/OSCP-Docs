@@ -16,16 +16,8 @@
   <h3 align="center">Getting Started with Open Spatial Computing Platform</h3>
 
   <p align="center">
-    Learn how to integrate the Open Spatial Computing Platform with your code today!
-<!--     <br />
-    <a href="https://github.com/OpenArCloud/OSCP-Docs"><strong>Explore the docs »</strong></a>
-    <br /> -->
+    Learn how to integrate your code with the Open Spatial Computing Platform!
     <br />
-<!--     <a href="https://github.com/OpenArCloud/OSCP-Docs">View Demo</a>
-    ·
-    <a href="https://github.com/OpenArCloud/OSCP-Docs/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/OpenArCloud/OSCP-Docs/issues">Request Feature</a> -->
   </p>
 </p>
 
@@ -37,9 +29,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-<!--       <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul> -->
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -48,7 +37,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-<!--     <li><a href="#usage">Usage</a></li> -->
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -100,29 +88,23 @@ To make it easy to learn OARC hosts a reference 'Spatial Discovery Service' and 
 
 ### Prerequisites
 
-In order to publish content to the reference Spatial Discovery Service you must first upload your content to OARC's public storage hosted on (Amazon Simple Storage Service).
-* S3 Client (used to upload assets to out public Simple Storage Service bucket)
+## Simple Cloud Storage
 
+[Simple Cloud Storage](https://github.com/OpenArCloud/simplecloudstorage)
+In order to publish content to the reference Spatial Content Discovery Service, you must first upload your content (currently only GLB files are supported) to some publicly available hosting service. In the simplest case, this can be `github`, but better you run your own storage service, for which we provide an S3 Client (Amazon Simple Storage Service)Client. You can deploy this to AWS or host your own.
 
-
-<!-- USAGE EXAMPLES -->
-<!-- ## Usage -->
-
-<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
-
-<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 ## Augmented City
-* [AC Scanner](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AC_Scanner_Tutorial.pdf)
-* [AC Viewer](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AC_Viewer_Tutorial.pdf)
+* [AC Scanner](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AugmentedCity/AC_Scanner_Tutorial.pdf)
+* [AC Viewer](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AugmentedCity/AC_Viewer_Tutorial.pdf)
 
 ## Immersal
-* [City-scale demo](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Immersal_City_Scale_Demo.pdf)
+* [City-scale demo](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Immersal/Immersal_City_Scale_Demo.pdf)
 
-## XR Masters App
-* [Placing AR Object using the XR-Masters App](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR_Masters_placement_tutorial.pdf)
-* [Uploading to XR Masters](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR%20Masters%20Asset%20Upload.md)
-* [Uploading to Augmented City](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XR_Masters_uploading_to_AugmentedCity.pdf)
+## XR Masters
+* [Placing AR Object using the XR-Masters App](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XRMasters/XR_Masters_placement_tutorial.pdf)
+* [Uploading to XR Masters](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XRMasters/XR_Masters_Asset_Upload.md)
+* [Uploading to Augmented City](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XRMasters/XR_Masters_uploading_to_AugmentedCity.pdf)
 
 
 <!-- ROADMAP -->
