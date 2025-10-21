@@ -4,6 +4,7 @@ Tutorial website: [https://www.openarcloud.org/ubicomp](https://www.openarcloud.
 Conference website: [Ubicomp 2025](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/workshops-and-tutorials/)
 
 Contents:
+ - [00 Abstract](2025-10-12_OARC_Tutorial_00_Abstract.pdf)
  - [01 Alina Kadlubsky: Introduction](2025-10-12_OARC_Tutorial_01_Introduction_Alina.pdf)
  - [02 Jan-Erik Vinje: Spatial Web](2025-10-12_OARC_Tutorial_02_SpatialWeb_Jan-Erik.pdf)
  - [03 Mikel Salazar: GeoPose](2025-10-12_OARC_Tutorial_03_GeoPose_Mikel.pdf)
