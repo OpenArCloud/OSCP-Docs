@@ -72,18 +72,11 @@ A growing number of commercial solutions are compatible with the OSCP. To quickl
 ### OSCP Sandbox Resources
 Open AR Cloud and the Open Spatial Computing Platoform is not a commercial service, rather it is reference material intended to enable participation in an openly accessible, decentralized, community of spatial content. However we do run some 'sandbox' services for the the purpose of reference and learning.
 
-Reference Services
-* [OSCP Public Content Storage](#)
 
 
 <!-- GETTING STARTED -->
-## Getting Started with OSCP Public Content Storage
-
-To aid easy publishing of XR content the OARC provides a publicly accessible storage service where people can upload digital assets they wish to publish to a particular locaiton in space.
-
-In order to publish digital content to the 'Spatial Discovery Service' the binary assets required must first be publicly accessible via the web, and than that resource URL must be included in a 'Spatial Discovery Record'.
-
-To make it easy to learn OARC hosts a reference 'Spatial Discovery Service' and basic content hosting (for learning purposes only). Please not that any content you publish to the 
+## Getting Started with OSCP
+We presented the OSCP in a comprehensive tutorial at Ubicomp 2025, you can find the materials in this repository: [2025_Ubicomp_tutorial](2025_Ubicomp_tutorial/2025_Ubicomp_tutorial.md)
 
 
 ### Prerequisites
@@ -91,7 +84,7 @@ To make it easy to learn OARC hosts a reference 'Spatial Discovery Service' and 
 ## Simple Cloud Storage
 
 [Simple Cloud Storage](https://github.com/OpenArCloud/simplecloudstorage)
-In order to publish content to the reference Spatial Content Discovery Service, you must first upload your content (currently only GLB files are supported) to some publicly available hosting service. In the simplest case, this can be `github`, but better you run your own storage service, for which we provide an S3 Client (Amazon Simple Storage Service)Client. You can deploy this to AWS or host your own.
+In order to publish content to the reference Spatial Content Discovery Service, you must first upload your content (currently only GLB files are supported) to some publicly available hosting service. In the simplest case, this can be `github`, but better you run your own storage service, for which we provide an S3 Client (Amazon Simple Storage Service) Client. You can deploy this to AWS or host your own.
 
 
 ## Augmented City
