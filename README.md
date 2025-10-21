@@ -50,11 +50,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Open Spatial Computing Platform
 
-<b>OSCP</b>
+The Open Spatial Computing Platform (OSCP) is a growing set of interoperable components that enable the authoring, publishing, discovery, and consumption of digital content anchored to the real world.
 
-The Open Spatial Computing Platform is a growing set of standard components that enables the authoring, publishing, discovery, and consumption of digital content such as XR experiences that has been anchored to the real world.
-
-The components of the OSCP are open source, reference implementations, intended to provide examples so that others may integrate OSCP compatiblity into into their own applications.
+The components of the OSCP are open source, and our reference implementations provide examples so that others may integrate OSCP compatiblity into into their own applications.
 
 Reference Components
 * [GeoPose](https://www.ogc.org/projects/groups/geoposeswg)
@@ -64,40 +62,51 @@ Reference Components
 
 ### Commercial Solutions
 
-A growing number of commercial solutions are compatible with the OSCP. To quickly begin publishing digital content to the real world, please consider using these:	
+A growing number of commercial solutions are compatible with the OSCP. To quickly begin publishing digital content to the real world, consider using these:	
 * [Augmented City](https://www.augmented.city/)
 * [Immersal](https://immersal.com/)
 * [XRMasters](https://xr-masters.com/)
 
-### OSCP Sandbox Resources
-Open AR Cloud and the Open Spatial Computing Platoform is not a commercial service, rather it is reference material intended to enable participation in an openly accessible, decentralized, community of spatial content. However we do run some 'sandbox' services for the the purpose of reference and learning.
-
-
 
 <!-- GETTING STARTED -->
-## Getting Started with OSCP
-We presented the OSCP in a comprehensive tutorial at Ubicomp 2025, you can find the materials in this repository: [2025_Ubicomp_tutorial](2025_Ubicomp_tutorial/2025_Ubicomp_tutorial.md)
+## Tutorial
+We presented the OSCP in a comprehensive tutorial at Ubicomp 2025, you can find the materials in this folder: [2025_Ubicomp_tutorial](2025_Ubicomp_tutorial/2025_Ubicomp_tutorial.md)
 
 
-### Prerequisites
+## OSCP Sandbox Resources
+Open AR Cloud and the Open Spatial Computing Platoform is not a commercial service, rather it is reference material intended to enable participation in an openly accessible, decentralized community of spatial content. However, we do run some 'sandbox' services for the the purpose of reference and learning.
+
+Sandbox Spatial Service Discovery: [https://ssd.orbit-lab.org/](https://ssd.orbit-lab.org/), GUI via [Swagger](https://ssd.orbit-lab.org/swagger)
+
+Sandbox Spatial Service Discovery: [https://scd.orbit-lab.org/](https://scd.orbit-lab.org/), GUI via [Swagger](https://scd.orbit-lab.org/swagger)
+
+Sandbox Discovery Admin GUI: [https://oscp-admin.orbit-lab.org/](https://oscp-admin.orbit-lab.org/), login via Auth0 and Google
+
+Sandbox WebXR client: [https://sparcl.orbit-lab.org/](https://sparcl.orbit-lab.org/), login via Auth0 and Google
+
 
 ## Simple Cloud Storage
 
-[Simple Cloud Storage](https://github.com/OpenArCloud/simplecloudstorage)
-In order to publish content to the reference Spatial Content Discovery Service, you must first upload your content (currently only GLB files are supported) to some publicly available hosting service. In the simplest case, this can be `github`, but better you run your own storage service, for which we provide an S3 Client (Amazon Simple Storage Service) Client. You can deploy this to AWS or host your own.
+In order to publish content to the Spatial Content Discovery Service, you must first upload your content (currently only GLB files are supported) to some publicly available hosting service. In the simplest case, this can be `github`, but better you run your own storage service, for which we provide an S3 Client (Amazon Simple Storage Service) Client. You can deploy this to AWS or host your own.
 
+The code of the storage service is available here: [Simple Cloud Storage](https://github.com/OpenArCloud/simplecloudstorage)
 
-## Augmented City
+## Visual Positioning
+
+### Augmented City
 * [AC Scanner](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AugmentedCity/AC_Scanner_Tutorial.pdf)
 * [AC Viewer](https://github.com/OpenArCloud/OSCP-Docs/blob/main/AugmentedCity/AC_Viewer_Tutorial.pdf)
 
-## Immersal
+### Immersal
 * [City-scale demo](https://github.com/OpenArCloud/OSCP-Docs/blob/main/Immersal/Immersal_City_Scale_Demo.pdf)
 
-## XR Masters
+### XR Masters
 * [Placing AR Object using the XR-Masters App](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XRMasters/XR_Masters_placement_tutorial.pdf)
 * [Uploading to XR Masters](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XRMasters/XR_Masters_Asset_Upload.md)
 * [Uploading to Augmented City](https://github.com/OpenArCloud/OSCP-Docs/blob/main/XRMasters/XR_Masters_uploading_to_AugmentedCity.pdf)
+
+### OpenVPS (from Nokia)
+* [OpenVPS documentation](https://github.com/OpenArCloud/openvps)
 
 
 <!-- ROADMAP -->
@@ -130,7 +139,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@openarcloud](https://twitter.com/openarcloud) - info@openarcloud.org
+[Alina Kadlubsky](mailto:communication@openarcloud.org)
+
+[Gábor Sörös](https://github.com/soeroesg/)
 
 Project Link: [https://github.com/OpenArCloud/OSCP-Docs](https://github.com/OpenArCloud/OSCP-Docs)
 
@@ -141,7 +152,6 @@ Project Link: [https://github.com/OpenArCloud/OSCP-Docs](https://github.com/Open
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
-
 
 
 
