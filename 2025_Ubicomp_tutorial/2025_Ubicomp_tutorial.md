@@ -1,6 +1,6 @@
 This folder contains the materials of the Tutorial: Building interoperable location-based augmented reality with the Open AR Cloud 
 
-Tutorial website: [https://www.openarcloud.org/ubicomp](https://www.openarcloud.org/ubicomp)
+Tutorial website: [https://www.openarcloud.org/oscp/ubicomp](https://www.openarcloud.org/oscp/ubicomp)
 Conference website: [Ubicomp 2025](https://ubicomp.hosting.acm.org/ubicompiswc2025_wp/workshops-and-tutorials/)
 
 Contents:
